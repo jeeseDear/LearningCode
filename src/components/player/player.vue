@@ -104,8 +104,6 @@
                 height:100%;
                 width:100%;
                 background: $color-background;
-                height:100%;
-                width:100%;
                 .background{
                     position:absolute;
                     top:0;

@@ -26,7 +26,7 @@
 </style>
 <script>
     export default{
-        props:{
+        props:{  
             percent:{
                 type:Number,
                 default:0
